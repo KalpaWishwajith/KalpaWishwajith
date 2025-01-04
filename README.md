@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="#" title="Web" target="_blank"><img src="assets/web.png" alt="Web" width="32" height="32"></a> &nbsp;
-	<a href="mailto:kalpawishwajith.official@gmail.com" title="email"><img src="assests/gmail.png" alt="Web" width="40" height="40"></a> &nbsp;
+	<a href="mailto:kalpawishwajith.official@gmail.com" title="email"><img src="assets/gmail.png" alt="Email" width="32" height="32"></a> &nbsp;
 	<a href="https://www.linkedin.com/in/kalpa-wishwajith/" title="LinkedIn" target="_blank"><img src="assets/linkedin.png" alt="LinkedIn" width="32" height="32"></a> &nbsp;
 	<a href="https://x.com/Kalpa_2001?s=09" title="X" target="_blank" rel="noopener noreferrer"><img src="assets/x.png" alt="X" width="32" height="32"></a> &nbsp;
 	<a href="https://www.facebook.com/kalpa.maxx.7?mibextid=ZbWKwL" title="Facebook" target="_blank" rel="noopener noreferrer"><img src="assets/facebook.png" alt="Facebook" width="32" height="32"></a> &nbsp;
@@ -14,8 +14,11 @@
 
 <h2 align="center">Profile Views</h2>
 <p align="center">
-	<b>Glad To See You Here</b>&nbsp;
+	<b>Glad To See You Here! 💖 </b>
+	<br/>
+	<br/>
 	<img src="https://profile-counter.glitch.me/KalpaWishwajith/count.svg">
+	<br/><br/>
 	<b>Profile Visitors!</b>   
 </p>
 
@@ -156,5 +159,5 @@
 </div>
 
 <div align="center">
-	<img src="assets/BottomGifs.gif">
+	<img src="assets/BottomImage.gif">
 </div>
