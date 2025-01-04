@@ -14,10 +14,11 @@
 
 <h2 align="center">Profile Views</h2>
 <p align="center">
-	<b>Glad To See You Here</b>
+	<b>Glad To See You Here! 💖 </b>
+	<br/>
 	<br/>
 	<img src="https://profile-counter.glitch.me/KalpaWishwajith/count.svg">
-	<br/>
+	<br/><br/>
 	<b>Profile Visitors!</b>   
 </p>
 
