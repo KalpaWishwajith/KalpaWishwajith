@@ -1,4 +1,6 @@
+
 <p align="center">
+	<a href="#" title="Web" target="_blank"><img src="assets/web.png" alt="Web" width="32" height="32"></a> &nbsp;
 	<a href="mailto:kalpawishwajith.official@gmail.com" title="email"><img src="assests/gmail.png" alt="Web" width="40" height="40"></a> &nbsp;
 	<a href="https://www.linkedin.com/in/kalpa-wishwajith/" title="LinkedIn" target="_blank"><img src="assets/linkedin.png" alt="LinkedIn" width="32" height="32"></a> &nbsp;
 	<a href="https://x.com/Kalpa_2001?s=09" title="X" target="_blank" rel="noopener noreferrer"><img src="assets/x.png" alt="X" width="32" height="32"></a> &nbsp;
@@ -55,7 +57,7 @@
 
 <br/>
 
-#### 🧰 Frameworks, Platforrms, Libraries
+### 🧰 Frameworks, Platforrms, Libraries
 
 <div align="center" style="font-size: 30px;">
 
@@ -70,9 +72,6 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-
-<!-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) -->
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 <br/>
@@ -80,7 +79,7 @@
 </div>
 
 ### 🗄 Databases and Cloud hosting
-
+<div align="center" style="font-size: 30px;">
 <p align="center">
 	<a href="#"><img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure"></a>
 	<a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
@@ -89,10 +88,10 @@
 	<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 	<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
-
+</div>
 <br/>
 
-#### 💻 Software and Tools
+### 💻 Software and Tools
 
 <div align="center" style="font-size: 30px;">
 
@@ -124,7 +123,6 @@
 <hr>
 <br/>
 
----
 
 ### 📊 Github Stats
 
@@ -143,6 +141,7 @@
 <p align="center">
     <img src="https://github.com/KalpaWishwajith/KalpaWishwajith/blob/output/dist/github-contribution-grid-snake-dark.svg">
 </p>
+<hr>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=KalpaWishwajith)](https://github.com/ryo-ma/github-profile-trophy)
