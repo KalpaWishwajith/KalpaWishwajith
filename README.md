@@ -1,5 +1,6 @@
 
 <p align="center">
+	<a href="#" title="Web" target="_blank"><img src="assets/web.png" alt="Web" width="32" height="32"></a> &nbsp;
 	<a href="mailto:kalpawishwajith.official@gmail.com" title="email"><img src="assests/gmail.png" alt="Web" width="40" height="40"></a> &nbsp;
 	<a href="https://www.linkedin.com/in/kalpa-wishwajith/" title="LinkedIn" target="_blank"><img src="assets/linkedin.png" alt="LinkedIn" width="32" height="32"></a> &nbsp;
 	<a href="https://x.com/Kalpa_2001?s=09" title="X" target="_blank" rel="noopener noreferrer"><img src="assets/x.png" alt="X" width="32" height="32"></a> &nbsp;
@@ -56,7 +57,7 @@
 
 <br/>
 
-#### 🧰 Frameworks, Platforrms, Libraries
+### 🧰 Frameworks, Platforrms, Libraries
 
 <div align="center" style="font-size: 30px;">
 
@@ -90,7 +91,7 @@
 </div>
 <br/>
 
-#### 💻 Software and Tools
+### 💻 Software and Tools
 
 <div align="center" style="font-size: 30px;">
 
@@ -140,6 +141,7 @@
 <p align="center">
     <img src="https://github.com/KalpaWishwajith/KalpaWishwajith/blob/output/dist/github-contribution-grid-snake-dark.svg">
 </p>
+<hr>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=KalpaWishwajith)](https://github.com/ryo-ma/github-profile-trophy)
