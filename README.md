@@ -1,10 +1,10 @@
 <p align="center">
-	<a href="mailto:kalpawishwajith.official@gmail.com" title="email" target="_blank"><img src="assets/LogoIcons/gmail.png" alt="Email" width="32" height="32"></a> &nbsp;
-	<a href="https://www.linkedin.com/in/kalpa-wishwajith/" title="LinkedIn" target="_blank"><img src="assets/LogoIcons/linkedin.png" alt="LinkedIn" width="32" height="32"></a> &nbsp;
-	<a href="https://x.com/Kalpa_2001?s=09" title="X" target="_blank" rel="noopener noreferrer"><img src="assets/LogoIcons/x.png" alt="X" width="32" height="32"></a> &nbsp;
-	<a href="https://www.facebook.com/kalpa.maxx.7?mibextid=ZbWKwL" title="Facebook" target="_blank" rel="noopener noreferrer"><img src="assets/LogoIcons/facebook.png" alt="Facebook" width="32" height="32"></a> &nbsp;
-	<a href="https://www.instagram.com/kalpa_wishwajith/" title="Instagram" target="_blank"><img src="assets/LogoIcons/instagram.png" alt="Instagram" width="32" height="32"></a> &nbsp;
-	<a href="https://api.whatsapp.com/send?phone=94774835055" title="WhatsApp" target="_blank"><img src="assets/LogoIcons/whatsapp.png" alt="WhatsApp" width="32" height="32"></a> &nbsp;
+	<a href="mailto:kalpawishwajith.official@gmail.com" title="email"><img src="assests/gmail.png" alt="Web" width="40" height="40"></a> &nbsp;
+	<a href="https://www.linkedin.com/in/kalpa-wishwajith/" title="LinkedIn" target="_blank"><img src="assets/linkedin.png" alt="LinkedIn" width="32" height="32"></a> &nbsp;
+	<a href="https://x.com/Kalpa_2001?s=09" title="X" target="_blank" rel="noopener noreferrer"><img src="assets/x.png" alt="X" width="32" height="32"></a> &nbsp;
+	<a href="https://www.facebook.com/kalpa.maxx.7?mibextid=ZbWKwL" title="Facebook" target="_blank" rel="noopener noreferrer"><img src="assets/facebook.png" alt="Facebook" width="32" height="32"></a> &nbsp;
+	<a href="https://www.instagram.com/kalpa_wishwajith/" title="Instagram" target="_blank"><img src="assets/instagram.png" alt="Instagram" width="32" height="32"></a> &nbsp;
+	<a href="https://api.whatsapp.com/send?phone=94774835055" title="WhatsApp" target="_blank"><img src="assets/whatsapp.png" alt="WhatsApp" width="32" height="32"></a> &nbsp;
 </p>
 
 <p align="center">
