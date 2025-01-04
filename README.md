@@ -156,5 +156,5 @@
 </div>
 
 <div align="center">
-	<img src="assets/BottomGifs.gif">
+	<img src="assets/BottomImage.gif">
 </div>
